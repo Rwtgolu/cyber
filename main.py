@@ -1,7 +1,6 @@
-
 import sys
 import logging
-from gui import USBMonitorGUI
+from usb_gui import USBMonitorGUI
 from config import LOG_CONFIG
 
 def setup_logging():
